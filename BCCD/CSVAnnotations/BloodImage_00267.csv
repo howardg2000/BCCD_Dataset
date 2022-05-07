@@ -1,0 +1,5 @@
+filename,cell_type,xmin,xmax,ymin,ymax
+BloodImage_00267.jpg,WBC,87,298,112,298
+BloodImage_00267.jpg,Platelets,62,101,26,73
+BloodImage_00267.jpg,Platelets,15,53,309,350
+BloodImage_00267.jpg,Platelets,1,38,349,381

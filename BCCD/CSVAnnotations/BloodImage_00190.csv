@@ -1,0 +1,15 @@
+filename,cell_type,xmin,xmax,ymin,ymax
+BloodImage_00190.jpg,RBC,256,373,16,118
+BloodImage_00190.jpg,RBC,412,506,37,136
+BloodImage_00190.jpg,RBC,115,208,10,99
+BloodImage_00190.jpg,RBC,515,632,144,285
+BloodImage_00190.jpg,RBC,373,484,237,344
+BloodImage_00190.jpg,RBC,502,613,45,152
+BloodImage_00190.jpg,RBC,45,144,94,198
+BloodImage_00190.jpg,RBC,465,576,315,422
+BloodImage_00190.jpg,RBC,161,272,302,409
+BloodImage_00190.jpg,RBC,322,433,331,438
+BloodImage_00190.jpg,RBC,114,236,392,480
+BloodImage_00190.jpg,RBC,482,603,414,480
+BloodImage_00190.jpg,WBC,181,396,115,326
+BloodImage_00190.jpg,Platelets,480,526,208,252
